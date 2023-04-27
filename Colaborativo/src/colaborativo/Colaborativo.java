@@ -15,6 +15,7 @@ public class Colaborativo {
      */
     public static void main(String[] args) {
         System.out.println("Hola Ronald");
+        System.out.println("Hola Alfonso");
     }
     
 }
