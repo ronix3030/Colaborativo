@@ -16,7 +16,7 @@ public class Colaborativo {
     public static void main(String[] args) {
         System.out.println("Hola Ronald");
         System.out.println("Hola Alfonso");
-        System.out.println("No te olvideos actualiziar tu git");
+        System.out.println("No te olvideos actualizar tu git");
     }
     
 }
