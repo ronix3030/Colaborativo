@@ -17,6 +17,7 @@ public class Colaborativo {
         System.out.println("Hola Ronald");
         System.out.println("Hola Alfonso");
         System.out.println("No te olvideos actualizar tu git");
+        System.out.println("alas 9 pm es la reunion");
     }
     
 }
